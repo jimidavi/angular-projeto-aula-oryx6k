@@ -1,0 +1,14 @@
+[
+  {
+    "type": "No dia seguinte", 
+    "price": 25.99
+  },
+  {
+    "type": "Em dois dias",
+    "price": 9.99
+  },
+  {
+    "type": "Correios",
+    "price": 2.99
+  }
+]
